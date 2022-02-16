@@ -1,6 +1,8 @@
 # VampireSurvivorsCharacterGenerator
 My Vampire Survivors Character Generator's first release!
 
+[DOWNLOAD THE LATEST RELEASE HERE](https://github.com/klodmood/VampireSurvivorsCharacterGenerator/releases/download/release/VampireSurvivorsCharacterGenerator_v0.1.zip)
+
 **Features:**
 
 
