@@ -12,6 +12,8 @@ Create a custom character by checking the "custom character" checkbox, and enter
 
 Function to restore unedited files when you want to return the "Red Death" character to normal.
 
+Change the MinValue and MaxValue values in the CONFIG file to adjust the range that the random number generator uses (in some cases this won't be the exact value, but is used as a seed for some of the attributes)
+
 I made this very quickly for personal use - so please backup any save data before running. I can give no guarantees and accept no liability that this software will work as intended on your machine.
 
 
