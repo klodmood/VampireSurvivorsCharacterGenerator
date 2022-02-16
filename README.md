@@ -40,3 +40,4 @@ If you wish to generate a new character - close the game, set your attributes if
 
 If you wish to restore your game to it's unmodified state - press "Restore Original Game Data"
 
+![Demo Animation](https://github.com/klodmood/VampireSurvivorsCharacterGenerator/blob/master/vampireSurvivors.gif)
